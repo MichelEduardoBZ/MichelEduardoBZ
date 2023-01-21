@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichelEduardoBZ
-- 🌱 I’m currently learning JS, Node, Firebase
+- 🌱 I’m currently learning J ava
 - 📫 Chegue até mim por meu e-mail: michel.zeschau@gmail.com
 
 <!---
