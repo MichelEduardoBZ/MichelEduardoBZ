@@ -1,15 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259073&height=180&section=header&text=O+QUE+EU+NÃO+SEI,+ME+DÊ+ALGUNS+DIAS!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259073&height=180&section=header&text=Olá!+meu+nome+é+Michel+Eduardo+Bernardo+Zeschau!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=Olá!+meu+nome+é+Michel+Eduardo+Bernardo+Zeschau;;Sou+de+SC+|+Brasil;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=;Sou+de+SC+|+Brasil;)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onedreamcwb&show_icons=true&count_private=true&hide_border=true&title_color=259073&icon_color=1bc497&text_color=259073&bg_color=22272e" alt="Gustavo Araujo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onedreamcwb&layout=compact&hide_border=true&title_color=259073&text_color=259073&bg_color=22272e" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MichelEduardoBZ&show_icons=true&count_private=true&hide_border=true&title_color=259073&icon_color=1bc497&text_color=259073&bg_color=22272e" alt="Michel github stats" /> 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelEduardoBZ&layout=compact&hide_border=true&title_color=259073&text_color=259073&bg_color=22272e" />
+</div>
+  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259073&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=3eb595&animation=twinkling&fontAlignY=55"/>
-[![Michel top languages][(https://github-readme-stats.vercel.app/api/top-langs/?username=MichelEduardoBZ&theme=blue-green)](https://github.com/MichelEduardoBZ/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Michel}&theme={dark}))
+
 </div>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=onedreamcwb&bg_color=22272e&color=259073&line=259073&point=53cfad&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MichelEduardoBZ&bg_color=22272e&color=259073&line=259073&point=53cfad&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=53cfad&vCenter=true&width=350&height=30&lines=MINHA+CARREIRA+DE+ESTUDOS" alt="Typing SVG" /></a>
