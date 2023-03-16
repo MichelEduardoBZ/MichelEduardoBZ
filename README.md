@@ -30,3 +30,5 @@
 
 <a href="https://wa.me/5547997521733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 <a href="https://www.linkedin.com/in/michel-zeschau-190a6a211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+
+<a href="mailto:email@provedor.com.br">Me envie um e-mail!</a>
