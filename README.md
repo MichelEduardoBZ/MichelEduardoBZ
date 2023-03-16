@@ -6,7 +6,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onedreamcwb&show_icons=true&count_private=true&hide_border=true&title_color=259073&icon_color=1bc497&text_color=259073&bg_color=22272e" alt="Gustavo Araujo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onedreamcwb&layout=compact&hide_border=true&title_color=259073&text_color=259073&bg_color=22272e" />
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259073&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=3eb595&animation=twinkling&fontAlignY=55"/>
-[![Michel top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelEduardoBZ&theme=blue-green)](https://github.com/MichelEduardoBZ/github-readme-stats)
+[![Michel top languages][(https://github-readme-stats.vercel.app/api/top-langs/?username=MichelEduardoBZ&theme=blue-green)](https://github.com/MichelEduardoBZ/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Michel}&theme={dark}))
 </div>
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=onedreamcwb&bg_color=22272e&color=259073&line=259073&point=53cfad&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
