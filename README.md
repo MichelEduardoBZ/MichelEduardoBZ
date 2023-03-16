@@ -26,6 +26,3 @@
 
 <a href="https://wa.me/5547997521733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 <a href="https://www.linkedin.com/in/michel-zeschau-190a6a211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259073&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=3eb595&animation=twinkling&fontAlignY=55"/>
-[![Michel top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelEduardoBZ&theme=blue-green)](https://github.com/MichelEduardoBZ/github-readme-stats)
