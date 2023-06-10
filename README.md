@@ -11,7 +11,6 @@
 
 </div>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MichelEduardoBZ&bg_color=22272e&color=259073&line=259073&point=53cfad&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=53cfad&vCenter=true&width=350&height=30&lines=Minha+Carreira+de+estudos" alt="Typing SVG" /></a>
