@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=259073&height=180&section=header&text=Olá!+meu+nome+é+Michel+Eduardo+Bernardo+Zeschau!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=;Sou+de+SC+|+Brasil;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=;SC+|+Brasil;)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MichelEduardoBZ&show_icons=true&count_private=true&hide_border=true&title_color=259073&icon_color=1bc497&text_color=259073&bg_color=22272e" alt="Michel github stats" /> 
